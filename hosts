@@ -94,3 +94,7 @@
 #   to proceed with 2.99 (GBP) redelivery payment.
 0.0.0.0 postingoffice.com
 0.0.0.0 www.postingoffice.com
+
+# Sender: +44 7377 462221
+#   Message for you: https://carintegrado.com.co/e/?dnr8qc5u
+0.0.0.0 carintegrado.com.co
