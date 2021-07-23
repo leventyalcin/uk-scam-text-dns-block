@@ -15,7 +15,7 @@ I regularly report those messages to [7726](https://www.ofcom.org.uk/phones-tele
   * Group Management -> Adlists -> Add a new list
   * Address: `https://raw.githubusercontent.com/leventyalcin/uk-scam-text-dns-block/master/hosts`
   * Add
-* Use in NextDNS.io if they approve the repo
+* Use in NextDNS.io if they approve the repo. <https://github.com/nextdns/metadata/issues/738>
 
 ## Can I contribute?
 
