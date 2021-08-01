@@ -98,3 +98,14 @@
 # Sender: +44 7377 462221
 #   Message for you: https://carintegrado.com.co/e/?dnr8qc5u
 0.0.0.0 carintegrado.com.co
+
+# Sender: +44 7561 454704
+#   DPD: Sorry we missed you. To book your redelivery
+#   visit: https://dpd.redelivery9q2d.com/missed
+0.0.0.0 dpd.redelivery9q2d.com
+0.0.0.0 redelivery9q2d.com
+
+# Sender: +44 7957 751091
+#   54rt7 You have 1 new Voicemail(s): http://wh472932.ispot.cc/go.php?u9ryi6g4f
+0.0.0.0 wh472932.ispot.cc
+0.0.0.0 ispot.cc
