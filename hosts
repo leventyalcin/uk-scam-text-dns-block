@@ -160,3 +160,9 @@
 # package: https://medleader.in/m/?ner2kco1 bypwh
 0.0.0.0 medleader.in
 0.0.0.0 www.medleader.in
+
+# Sender: +44 7306 088087
+# HERMES: Your driver Andy was not able to deliver your parcel today,
+# please reschedule your delivery using: trackexpertreplace.com
+0.0.0.0 trackexpertreplace.com
+0.0.0.0 www.trackexpertreplace.com
