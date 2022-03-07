@@ -166,3 +166,9 @@
 # please reschedule your delivery using: trackexpertreplace.com
 0.0.0.0 trackexpertreplace.com
 0.0.0.0 www.trackexpertreplace.com
+
+# Sender: +44 7593 127053
+# You've been in a close proximity with someone who has been contagious.
+# You will need a test kit: https://check-pcr-test.com
+0.0.0.0 check-pcr-test.com
+0.0.0.0 www.check-pcr-test.com
