@@ -172,3 +172,9 @@
 # You will need a test kit: https://check-pcr-test.com
 0.0.0.0 check-pcr-test.com
 0.0.0.0 www.check-pcr-test.com
+
+# Sender: +44 7599 900374
+# Your driver Jamie tried to give you your parceI today at 08:49 AM.
+# To re-scheduIe & track your parceIs, visit: https://trackdepot-service.com
+0.0.0.0 trackdepot-service.com
+0.0.0.0 www.trackdepot-service.com
